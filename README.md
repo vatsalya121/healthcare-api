@@ -96,30 +96,6 @@ python manage.py runserver
 Authorization: Bearer YOUR_ACCESS_TOKEN
 ```
 
----
-
-## **🚀 How to Push Project to GitHub**
-### **1️⃣ Initialize Git**
-```sh
-git init
-```
-
-### **2️⃣ Add Remote Repository**
-```sh
-git remote add origin https://github.com/yourusername/hospital-management-api.git
-```
-
-### **3️⃣ Add & Commit Files**
-```sh
-git add .
-git commit -m "Initial commit"
-```
-
-### **4️⃣ Push to GitHub**
-```sh
-git branch -M main
-git push -u origin main
-```
 
 ---
 
